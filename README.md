@@ -1,18 +1,5 @@
 # DECISION-TREE-IMPLEMENTATION
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: SIVAKARTHICK B
-
-*INTERN ID*: : CT08FYO
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEEKS
-
-*MENTOR*: NEELA SANTOSH
-
-
 **Wine Quality Prediction using Decision Tree Classifier**
 
 ### **Project Overview**
